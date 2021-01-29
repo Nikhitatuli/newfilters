@@ -16,3 +16,4 @@
 ! *** easylist:easylist/easylist_general_block.txt ***
 extensionslabs.com
 easygamestab.com
+forbes.com
